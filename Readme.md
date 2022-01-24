@@ -6,7 +6,7 @@ I'm Colacky! I've started dipping my toes into software development slowly over 
 
 ## New project released - Spacerniak [PL]
 A project demo just launched at https://spacerniak.herokuapp.com
-It's a django web-app that I've built for a local shelter I'm volunteering it - it allows us to keep track of how many walks a dog gets, it also suggests to take 10 least-walked dogs in form of a card carousel. Each volunteer can keep track of how many walks in total they've had. This can be considered an MVP.
+It's a django web-app that I've built for a local shelter I'm volunteering at - it allows us to keep track of how many walks a dog gets, it also suggests to take 10 least-walked dogs in form of a card carousel. Each volunteer can keep track of how many walks in total they've had. This can be considered an MVP.
 To test it you can use these credentials:
 1. Login: Wolontariusz0
 2. Pass: Testkonto1
