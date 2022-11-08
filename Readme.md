@@ -17,8 +17,8 @@ Since I started working as a developer full-time I didn't have as much time for 
   A project demo just launched at https://spacerniak.herokuapp.com (will be taken down once heroku cuts free deployment)
   It's a django web-app that I've built for a local shelter I'm volunteering at - it allows us to keep track of how many walks a dog gets, it also suggests to take 10  least-walked dogs in form of a card carousel. Each volunteer can keep track of how many walks in total they've had. This can be considered an MVP.
   To test it you can use these credentials:
-  1. Login: Wolontariusz0
-  2. Pass: Testkonto1
+   Login: Wolontariusz0
+   Pass: Testkonto1
 
 ---
 
